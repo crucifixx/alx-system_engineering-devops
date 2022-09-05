@@ -54,20 +54,16 @@
 
 
 
-14-change_owner_and_group - Write a script that changes the owner to betty and the group owner to holberton for all the files and directories in the working directory.
+100-change_owner_and_group - Write a script that changes the owner to betty and the group owner to holberton for all the files and directories in the working directory.
 
 
 
-15-symbolic_link_permissions - Write a script that changes the owner and the group owner of the file _hello to betty and holberton respectively. The file _hello is in the working directory The file _hello is a symbolic link
+101-symbolic_link_permissions - Write a script that changes the owner and the group owner of the file _hello to betty and holberton respectively. The file _hello is in the working directory The file _hello is a symbolic link
 
 
 
-16-if_only - Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume. The file hello will be in the working directory
+102-if_only - Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume. The file hello will be in the working directory
 
 
 
-100-Star_Wars - Write a script that will play the StarWars IV episode in the terminal.
-
-
-
-101-man_holberton - Create a man that looks exactly like this one and passes all checks.
+103-Star_Wars - Write a script that will play the StarWars IV episode in the terminal.
